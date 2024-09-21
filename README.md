@@ -10,3 +10,4 @@ Welcome to the **Express.js User & Product API**! This project is a simple Node.
   - Fetch a single user by ID: `GET /api/users/:id`
   - Add a new user: `POST /api/users`
   - Delete a user: `DELETE /api/users/1`
+# backend
